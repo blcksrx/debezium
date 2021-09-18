@@ -138,6 +138,7 @@
         <module>debezium-scripting</module>
         <module>debezium-server</module>
         <module>debezium-testing</module>
+        <module>debezium-connector-sink</module>
     </modules>
 
     <distributionManagement>
